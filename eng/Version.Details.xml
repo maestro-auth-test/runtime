@@ -1,5 +1,5 @@
 <Dependencies>
-  <Source Uri="https://github.com/dotnet/dotnet" Mapping="runtime" Sha="99827afdd78bdf14d3b0434d684c321fe6212554" BarId="283082" />
+  <Source Uri="https://github.com/maestro-auth-test/dotnet" Mapping="runtime" Sha="47e382116d24cf55e446fd1d120bf9f85468c309" BarId="6" />
   <ProductDependencies>
     <Dependency Name="Microsoft.NETCore.Runtime.ICU.Transport" Version="11.0.0-alpha.1.25463.1">
       <Uri>https://github.com/dotnet/icu</Uri>
